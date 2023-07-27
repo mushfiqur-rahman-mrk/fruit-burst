@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+header,main{
+    max-width: 1280px;
+    margin:0 auto;
+}
+.navbar a{
+    font-size: 16px;
+    color: #ffffffea;
+    font-weight: 500;
+}
+.navbar a:hover{
+    color: rgba(90, 99, 92, 0.707);
+}
+.carousel h1{
+    color: white;
+    font-weight: 800;
+}
+.carousel p{
+    font-size: 17px;
+    font-weight: 500;
+    padding: 0px 0 20px;
+}
+.carousel button{
+    text-transform:none ;
+    font-size: 20px; 
+    padding: 0px 24px;
+    color: white;
+    background: #F85559;
+    border: none;
+}
